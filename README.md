@@ -1,6 +1,4 @@
-Claro, aqui está o arquivo ReadMe combinado para o projeto Covida:
 
----
 
 # Covida
 
