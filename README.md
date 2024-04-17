@@ -1,27 +1,51 @@
-# CovidaWeb
+Claro, aqui está o arquivo ReadMe combinado para o projeto Covida:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+---
 
-## Development server
+# Covida
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Sobre o Projeto
+Este repositório contém os seguintes componentes do projeto Covida:
 
-## Code scaffolding
+1. **Aplicação Web (Covida-web)** - [GitHub](https://github.com/MarcusGarca/covida-web)
+2. **Aplicação Mobile (Covida-app)** - [GitHub](https://github.com/MarcusGarca/covida-app)
+3. **Integração entre os sistemas (Covida-api)** - [GitHub](https://github.com/MarcusGarca/covida-api)
+4. **Documentação da API** - [Swagger UI](http://localhost:8080/swagger-ui/index.html)
+5. **URL do projeto em Produção** - [Covida Web App](https://covida-web.vercel.app/#/inicio)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Agradecimentos
+Gostaríamos de agradecer aos seguintes serviços pela hospedagem gratuita:
+- Front End: [Vercel](https://vercel.com/)
+- Back End (API e Banco de Dados): [Render](https://render.com/)
+
+## Read Me First
+Durante a construção deste projeto, foram feitas as seguintes descobertas:
+
+- O nível do JVM foi alterado de '11' para '17', consulte o intervalo de versão do JDK no wiki para mais detalhes.
+
+## Como Começar
+Consulte a documentação oficial e outras referências para começar:
+
+- [Documentação Oficial do Apache Maven](https://maven.apache.org/guides/index.html)
+- [Guia de Referência do Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
+- Criar uma imagem OCI
+
+## Servidor de Desenvolvimento
+Execute `ng serve` para iniciar um servidor de desenvolvimento. Acesse `http://localhost:4200/`. A aplicação será recarregada automaticamente sempre que houver alterações nos arquivos de origem.
+
+## Scaffolding de Código
+Execute `ng generate component component-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
+Execute `ng build` para compilar o projeto. Os artefatos de compilação serão armazenados no diretório `dist/`.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Executando Testes Unitários
+Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running unit tests
+## Executando Testes End-to-End
+Execute `ng e2e` para executar os testes end-to-end através de uma plataforma de sua escolha. Para usar este comando, primeiro é necessário adicionar um pacote que implemente capacidades de teste end-to-end.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Ajuda Adicional
+Para obter mais ajuda sobre o Angular CLI, use `ng help` ou consulte a [Visão Geral e Referência de Comandos do Angular CLI](https://angular.io/cli).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
