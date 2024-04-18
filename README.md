@@ -3,11 +3,11 @@
 # Covida
 
 ## Sobre o Projeto
-Este repositório contém os seguintes componentes do projeto Covida:
+Este repositório contém TCC FIAP os seguintes componentes do projeto Covida:
 
-1. **Aplicação Web (Covida-web)** - [GitHub](https://github.com/MarcusGarca/covida-web)
-2. **Aplicação Mobile (Covida-app)** - [GitHub](https://github.com/MarcusGarca/covida-app)
-3. **Integração entre os sistemas (Covida-api)** - [GitHub](https://github.com/MarcusGarca/covida-api)
+1. **Aplicação Web (Covida-web)** Desenvolvidor por mim
+2. **Aplicação Mobile (Covida-app)** - Desenvolvidor por mim e Marcos [GitHub](https://github.com/MarcusGarca/covida-app)
+3. **Integração entre os sistemas (Covida-api)** Desenvolvidor por Lucas e Marcos- [GitHub](https://github.com/MarcusGarca/covida-api)
 4. **Documentação da API** - [Swagger UI](http://localhost:8080/swagger-ui/index.html)
 5. **URL do projeto em Produção** - [Covida Web App](https://covida-web.vercel.app/#/inicio)
 
